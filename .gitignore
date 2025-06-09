@@ -1,0 +1,4 @@
+.DS_Store
+CryptoTradingSystem/*/bin
+CryptoTradingSystem/*/obj
+.idea
